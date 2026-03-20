@@ -1,3 +1,4 @@
+![logo](https://github.com/buildbycodes/buildbycodes/blob/main/banner.png)
 ## Hi there 👋
 
 <!--
